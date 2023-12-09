@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/github/languages/code-size/MayoBlueSky/My-Actions?color=blueviolet">
 </div>
 
-个人收集并适配Github Actions的各类签到大杂烩
+个人收集并适配Github Actions的各类签到大杂烩 
 ## 不要fork了 ⭐️star就行 #
 
 [点这里加TG群](https://t.me/joinchat/Os0AUkWMJl43ODBl) 
